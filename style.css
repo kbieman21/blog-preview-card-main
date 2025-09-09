@@ -78,7 +78,16 @@ main{
   height: 200px;
   background-color: yellow;
   border-radius: 10px;
+  cursor: pointer;
     
+}
+
+.blogImage:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+  filter: brightness(1.1);
+  cursor: pointer;
+ 
 }
 
 .author {
