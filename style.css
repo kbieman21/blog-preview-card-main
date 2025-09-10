@@ -108,12 +108,7 @@ main{
   object-fit: cover;
 }
 
-.author-name {
-  font-size: 0.875rem;
-  font-weight: 700; /*this was supposed to bold my text*/
-  color: #1A1A1A; /* gray-950 */
-  
-}
+
 
 .attribution { 
     font-size: 11px; text-align: center; 
@@ -121,10 +116,3 @@ main{
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 } 
-
-
-
-
-
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
